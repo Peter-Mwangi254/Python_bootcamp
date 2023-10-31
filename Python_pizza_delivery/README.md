@@ -1,6 +1,6 @@
 # Python Pizza Deliveries
 
-![Pizza](pizza.jpg)
+![Pizza](https://i.pinimg.com/564x/1b/60/78/1b6078b5bd51521860a43103b0a6cae5.jpg)
 
 Welcome to the Python Pizza Deliveries program! This Python script allows users to order pizzas by selecting the size, adding pepperoni, and choosing extra cheese. It calculates the total bill based on the user's choices.
 
@@ -53,4 +53,4 @@ This project is maintained by [Peter_Mwangi254](https://github.com/Peter_Mwangi2
 
 Enjoy your Python Pizza Deliveries!
 
-![Pizza](pizza.jpg)
+![Pizza](https://i.pinimg.com/564x/1b/60/78/1b6078b5bd51521860a43103b0a6cae5.jpg)
